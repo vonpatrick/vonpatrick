@@ -1,6 +1,6 @@
 <ul>
   <li>🔭 I’m currently working on Web Applications</li>
-  <li>📫 Reach me at: <a>patchiemed@gmail.com</a></li>
+  <li>📫 Reach me at: <a href="">patchiemed@gmail.com</a></li>
 </ul>
 
 <h2>Dev Tools</h2>
