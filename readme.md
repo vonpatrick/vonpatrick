@@ -1,5 +1,7 @@
-🔭 I’m currently working on Web Applications
-📫 Reach me at: patchiemed@gmail.com
+<ul>
+  <li>🔭 I’m currently working on Web Applications</li>
+  <li>📫 Reach me at: patchiemed@gmail.com</li>
+</ul>
 
 <h2>Dev Tools</h2>
 
