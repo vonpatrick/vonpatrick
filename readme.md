@@ -1,5 +1,6 @@
 <ul>
   <li>🔭 I’m currently working on Web Applications</li>
+  <li>🌱 I’m currently learning Laravel 9</li>
   <li>📫 Reach me at: <a href="">patchiemed@gmail.com</a></li>
 </ul>
 
