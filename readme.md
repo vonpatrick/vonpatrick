@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vonpatrick&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=vonpatrick&color=blue&style=for-the-badge&abbreviated=true)
 
 <ul>
   <li>🔭 I’m currently working on Web Applications</li>
