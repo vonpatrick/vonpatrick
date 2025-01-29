@@ -3,6 +3,7 @@
 <ul>
   <li>🔭 I’m currently working on Web Applications</li>
   <li>🌱 I’m currently learning and improving my skills on Laravel, Vuejs3</li>
+  <li>⚡Fun fact: My first system is the Monitoring System, which is like a process control system.</li>
   <li>📫 Reach me at: <a href="">patchiemed@gmail.com</a></li>
 </ul>
 
